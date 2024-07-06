@@ -92,7 +92,7 @@ Note that glowing platforms will lift you into the air.
 	- Go to opposite side of first and rotate around as they appear. Once you get to where the first one dropped, kill it to create safe spot for next mechanic. Stand on glowing corner platform.
 - Blighted Bolt
 	- Kills any player lifted off the ground and hits each feather with AoE bolt. Check debuff timers.
-- First set of Lightning and Ice debuffs expire. Li
+- First set of Lightning and Ice debuffs expire.
 - Lightning spread on the ground, Ice players stand on glowing platforms in each corner.
 - One of 3 AoEs
 	- When they go off, Vali will drop an AoE on everyone's location. Move as soon as they go off.
