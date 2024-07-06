@@ -12,7 +12,7 @@ ___
 	- Backward = Safe Behind Him
 	- Forward = Safe In Front Of Him
 	 He will also cleave half the room on one of his sides. Look for the glowing sword.
-	 If Forward, you will want to be on the side WITH the glowing sword. When his character jumps forward he will do a 180 and cleave the other side.
+		 If Forward, you will want to be on the side WITH the glowing sword. When his character jumps forward he will do a 180 and cleave the other side.
 Once this resolves, he will do another Multidirectional Divide. Stack behind the boss.
 ___
 ### Regicidal Rage

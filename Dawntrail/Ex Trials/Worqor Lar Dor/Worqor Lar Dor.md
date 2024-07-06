@@ -1,4 +1,4 @@
-[[Extreme Trials]]
+git[[Extreme Trials]]
 ### Spikesicle
 Several line AoEs + Bombs
 Traces lines on the ground telegraphing path. Ice bombs drop on platform as the lines trace. Ice bombs explode in the order they appear.
@@ -78,7 +78,7 @@ ___
 - Freezing Dust - Keep moving until debuff wears off + roughly 3 seconds after.
 - Last 4 lightning debuffs.
 - Disaster Zone
-- 2 tankbusters
+- 2 Tank Busters
 
 **Storm**
 Note that glowing platforms will lift you into the air.
