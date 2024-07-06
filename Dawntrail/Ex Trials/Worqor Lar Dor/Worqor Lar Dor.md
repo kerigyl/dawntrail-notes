@@ -68,7 +68,7 @@ ___
 	- Fire are Party Stacks. Healers stand with rest of party minus tanks.
 - Watch flavor text, "A rumbling avalanche approaches form the Southeast/Southwest..." Watch Vali for AoE tell from before.
 	- Move to opposite side of warning text. Dodge Donut/Point Blank/Conal AoE.
-- Ice towers appear, will do 8 line AoEs outward. Leaves small safe spot on floor. One of 2 spots clost to Vali: E/W side of his hitbox. Same spot on either side.
+- Ice towers appear, will do 8 line AoEs outward. Leaves small safe spot on floor. One of 2 spots close to Vali: E/W side of his hitbox. Same spot on either side.
 	- ![[Pasted image 20240703202632.png]]
 - 4 lightning buffs will begin to count down. Small AoEs on players. These players should spread.
 - Spikesicle. Same as the first + Avalanche. May need to double back.
