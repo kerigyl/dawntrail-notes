@@ -76,11 +76,11 @@ Debuff on every living player. Beam passes over party. Debuff causes Stack AoE w
 
 **"Braindead" Strat**
 ![[Pasted image 20240704104458.png]]
-Tanks take their stacks solo, everyone else lines up (from corner with line: M > M > H > H > R > R)
+Tanks take their stacks solo (kitchen sink, no invuln), everyone else lines up (from corner with line: M > M > H > H > R > R)
 
-**CHEESE STRAT** (Getting patched)
+~~**CHEESE STRAT** (Dead)
 ![[Pasted image 20240703191201.png]]
-Wall does not kill. Everyone walks to the far corner from where the beam started, eats the damage and deals with the tankbuster and wait out timer. Beam will never reach party.
+Wall does not kill. Everyone walks to the far corner from where the beam started, eats the damage and deals with the tankbuster and wait out timer. Beam will never reach party.~~
 
 Tankbuster is a 3 hit that hits hard. If doing 2nd strat, easiest to have MT invuln, other tank will invuln it later in the fight.
 ___
