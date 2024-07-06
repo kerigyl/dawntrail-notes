@@ -73,7 +73,7 @@ ___
 - 4 lightning buffs will begin to count down. Small AoEs on players. These players should spread.
 - Spikesicle. Same as the first + Avalanche. May need to double back.
 - One of the 3 AoEs.
-- Ice pillars again.
+- Ice towers again.
 - Avalanche again.
 - Freezing Dust - Keep moving until debuff wears off + roughly 3 seconds after.
 - Last 4 lightning debuffs.
