@@ -28,7 +28,7 @@ Places Swords on outer platform squares
 Highlights 2 Platforms
 - Swords appear in same spot on main platform.
 
-Boss will do a Half Full as this resolves, watch for sword.
+Boss will do a Half Full as this resolves, watch for sword. 4 possible variations:
 ![[Pasted image 20240708055318.png]]
 ___
 ### Greater Gateway
