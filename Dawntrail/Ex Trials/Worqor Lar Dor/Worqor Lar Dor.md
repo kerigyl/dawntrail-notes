@@ -1,4 +1,4 @@
-git[[Extreme Trials]]
+[[Extreme Trials]]
 ### Spikesicle
 Several line AoEs + Bombs
 Traces lines on the ground telegraphing path. Ice bombs drop on platform as the lines trace. Ice bombs explode in the order they appear.

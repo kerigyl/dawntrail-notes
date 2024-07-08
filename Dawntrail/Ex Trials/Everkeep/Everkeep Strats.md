@@ -29,7 +29,7 @@ Highlights 2 Platforms
 - Swords appear in same spot on main platform.
 
 Boss will do a Half Full as this resolves, watch for sword.
-![[Pasted image 20240703185135.png]]
+![[Pasted image 20240708055318.png]]
 ___
 ### Greater Gateway
 Tethers outer platforms to Main Platform like in Normal
