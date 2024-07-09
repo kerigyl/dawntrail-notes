@@ -3,7 +3,7 @@
 Several line AoEs + Bombs
 Traces lines on the ground telegraphing path. Ice bombs drop on platform as the lines trace. Ice bombs explode in the order they appear.
 
-Simple Movement
+**Simple Movement**
 - Go to opposite side of the room of the first line.
 - Once AoEs start firing, work toward the center. Shade slightly off center toward other side of platform. Use arrow on hitbox as visual aid. Dodge ice as they go off.
 ___
