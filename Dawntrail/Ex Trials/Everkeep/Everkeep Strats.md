@@ -129,7 +129,7 @@ ___
 ### Projection Of Turmoil 2
 Same as the first, but Half room cleaves resolve as you remove stacks.
 
-Can be YOLO'd. Do wall cheese if not patched.
+Can be YOLO'd.
 
 OT invulns TB.
 ___
