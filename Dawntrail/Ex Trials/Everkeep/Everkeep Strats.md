@@ -145,5 +145,5 @@ ___
 ### Multidirectional Divide
 Same as the first.
 ___
-### Acutalize
+### Actualize
 Enrage. 11 minute timer.
