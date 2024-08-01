@@ -1,2 +1,2 @@
-[[Savage]] [[Arcadion 1]]
+[[Savage]] [[Light-Heavyweight]]
 

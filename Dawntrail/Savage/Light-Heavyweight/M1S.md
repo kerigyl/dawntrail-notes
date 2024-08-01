@@ -1,4 +1,4 @@
-[[Savage]] [[Arcadion 1]]
+[[Savage]] [[Light-Heavyweight]]
 
 [Guide Used](https://www.youtube.com/watch?v=9UB5x8JzAiQ)
 ### Pre-Pull Setup
