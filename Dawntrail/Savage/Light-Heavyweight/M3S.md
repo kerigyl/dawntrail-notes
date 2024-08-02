@@ -80,3 +80,80 @@ ___
 
 Identify the corner with 3 long fuses. This is New North.
 
+2 sets of fuses on players (Supports/DPS). In the example shown, Supports have short fuses.
+![[Pasted image 20240802110950.png]]
+
+M1 W, M2 E. Ranged losing more DPS while moving goes S.
+
+Change sides while keeping the same New North. G1 West, G2 East.
+![[Pasted image 20240802111654.png]]
+___
+### Octoboom/Quadroboom Dive 3
+Same as the 2nd.
+___
+### Fusefield
+2 sets of debuffs (Support/DPS) to get rid of. "Curtain Call"-like mechanic. Use P8S Snakes Prio:
+
+M1 M2 R1 R2 CW from A for both Supports and DPS.
+
+Ignited lines appear that need to be walked on before reaching the boss.
+
+Check debuff times. Short timers walk on short lines, Long timers on long lines.
+
+M1 take first line matching their timer from N and go CW. R2 take the first line matching from NW and go CCW.
+
+Players will get a vuln after walking on their flame. Wait between each hit for heals + vuln to disappear.
+
+In this example, the order will be:
+T1 > T2 > H1 > H2 > M1 > M2 > R1 > R2
+![[Pasted image 20240802112255.png]]
+___
+### Knuckle Sandwich 3
+Same as the 2nd.
+___
+### Doping Draught
+One new combo and 8 hit tb/raidwides. Can invuln last 2 TBs.
+___
+### Octoboom/Quadroboom Bomb Special
+4 hit raidwide > Hit + Out > In; Then KB followed by Spread/Pairs (can be KB immuned).
+___
+### Chain Deathmatch 2
+Tethered to one clone + boss; Need to get hit once by each.
+
+**Fuses of Fury**
+	No player fuses, only bombs.
+	Go between 2 long fuses.
+
+Dodge short fuses, then move to get hit by clone + bosses "Murderous Mist".
+___
+### Octoboom/Quadroboom Dive 4
+Same as the 2nd, but note that you have the DoT from the boss.
+___
+### Brutal Impact 5
+8 hit physical raidwide.
+___
+### Knuckle Sandwich 4
+8 hit duo tankbuster; can invuln.
+___
+### Fuse or Foe + Spin
+Rotating Boss cleaves. Ignore your fuse. Stand opposite the rotating cone.
+
+Walk in when the AoEs dissipate. Locate your markers: same color, melees on letters (note Yuki's waymarks). Dodge AoEs around your markers.
+
+Repeat once for 2nd set of fuses.
+___
+### Octuple/Quadruple Lariat 4
+Same as the 2nd.
+___
+### Brutal Impact 6
+8 hit physical raidwide.
+___
+### Barbarous Barrage
+Same as the 1st, except melees go for N/W towers, Ranged S/E.
+
+Dodge Lariat combo.
+___
+### Knuckle Sandwich 5
+8 hit duo tankbuster; other tank can invuln.
+___
+### Enrage
