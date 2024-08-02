@@ -152,3 +152,5 @@ Everyone go to clockspots. 11s gather mid and pop.
 
 Wait for "Call Me Honey" raidwides to go off before popping next pair.
 ___
+### Sheer Heart Attack
+Enrage.
