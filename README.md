@@ -9,3 +9,7 @@ Download from [this](https://obsidian.md) link.
 - Install and Enable (will need to do both separately)
 ### Clone Repository
 See [here](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429) for video walkthrough.
+
+### Update Notes With Changes
+- Press CTRL+P
+- Type "git pull" and hit "Enter"
