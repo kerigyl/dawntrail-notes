@@ -1,6 +1,6 @@
 "# dawntrail-notes" 
 ### Download Obsidian
-Download from [this](https://obsidian.md) link.
+Download from [this link.](https://obsidian.md) 
 ### Install Obsidian Git
 - Click "Settings" in the botton left.
 - Click "Community Plugins" and turn them on.
