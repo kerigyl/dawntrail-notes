@@ -1,6 +1,6 @@
 [[Savage]] [[Light-Heavyweight]]
 
-[Hector Strats](https://www.youtube.com/watch?v=9UB5x8JzAiQ)
+[](https://www.youtube.com/watch?v=9UB5x8JzAiQ)
 ### Pre-Pull Setup
 - Clocks (True North or Boss Relative) - True North used in Hector Guide
 - Partners (T/H rotate CCW)
@@ -47,7 +47,7 @@ ___
 ### Mouser
 Basically Devour. 2 possible movements, look at Waymark 3 in the Hector guide (SE internal square):
 - If 3 is hit **once**, move 4 > 3.
-- If 3 is hit twice, move 4 > 3 > 2 or 4
+- If 3 is hit twice, move 4 > 3 > 2
 ___
 ### Copycat
 Center broken tiles come back like new and spawns a clone.
@@ -111,6 +111,7 @@ You can also have the tanks invuln by doing the following:
 - Tanks take tethers and 2nd hits.
 - Both invuln, one goes in and the other goes out. Party stacks on edge of bosses hitbox south.
 - ![[Pasted image 20240731173940.png]]
+- Alternate Strat: ![[Pasted image 20240807183926.png]]
 ___
 ### Predacious Pounce
 Combined with One-Two Paw. Stay close to N/S line in center to dodge One-Two Paw and ensure you don't get hit by an AoE.
