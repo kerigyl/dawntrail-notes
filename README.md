@@ -15,4 +15,3 @@ See [here](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-
 ### Update Notes With Changes
 - Press CTRL+P
 - Type "git pull" and hit "Enter"
-

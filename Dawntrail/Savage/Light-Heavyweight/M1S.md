@@ -1,6 +1,6 @@
 [[Savage]] [[Light-Heavyweight]]
 
-[Guide Used](https://www.youtube.com/watch?v=9UB5x8JzAiQ)
+[Hector Strats](https://www.youtube.com/watch?v=9UB5x8JzAiQ)
 ### Pre-Pull Setup
 - Clocks (True North or Boss Relative) - True North used in Hector Guide
 - Partners (T/H rotate CCW)
