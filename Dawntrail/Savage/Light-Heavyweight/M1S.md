@@ -47,7 +47,7 @@ ___
 ### Mouser
 Basically Devour. 2 possible movements, look at Waymark 3 in the Hector guide (SE internal square):
 - If 3 is hit **once**, move 4 > 3.
-- If 3 is hit twice, move 4 > 3 > 2
+- If 3 is hit twice, move 4 > 3 > 2 or 4
 ___
 ### Copycat
 Center broken tiles come back like new and spawns a clone.
