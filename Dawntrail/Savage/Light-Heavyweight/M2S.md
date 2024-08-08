@@ -59,7 +59,7 @@ Dodge "Loveseeker" Point-Blank AoE. Hearts begin floating from boss toward arena
 ___
 ### Heartsick
 Stack targeting a player with less than 3 hearts.
-2 heats or less can group and dodge together.
+2 hearts or less can group and dodge together.
 ___
 ### Centerstage Combo
 In + intercard > Out + Cardinal
