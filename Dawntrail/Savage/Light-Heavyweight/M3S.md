@@ -92,7 +92,7 @@ ___
 Same as the 2nd.
 ___
 ### Fusefield
-2 sets of debuffs (Support/DPS) to get rid of. "Curtain Call"-like mechanic. Use P8S Snakes Prio:
+2 sets of debuffs (Support/DPS) to get rid of. "Curtain Call"-like mechanic. Fire in middle. Use P8S Snakes Prio:
 
 M1 M2 R1 R2 CW from A for both Supports and DPS.
 
