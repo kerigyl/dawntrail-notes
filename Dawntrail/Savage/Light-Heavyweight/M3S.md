@@ -81,12 +81,12 @@ ___
 Identify the corner with 3 long fuses. This is New North.
 
 2 sets of fuses on players (Supports/DPS). In the example shown, Supports have short fuses.
-![[Pasted image 20240802110950.png]]
+![[Pasted image 20240815180316.png]]
 
 M1 W, M2 E. Ranged losing more DPS while moving goes N.
 
 Change sides while keeping the same New North. G1 West, G2 East.
-![[Pasted image 20240802111654.png]]
+
 ___
 ### Octoboom/Quadroboom Dive 3
 Same as the 2nd.
