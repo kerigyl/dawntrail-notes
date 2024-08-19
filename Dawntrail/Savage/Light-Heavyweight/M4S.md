@@ -158,3 +158,125 @@ HUGE raidwide damage spread across 9 hits. Tank LB as the castbar crosses the "S
 Group 1 Left, Group 2 Right. Exaflares appear in this pattern:
 ![[Pasted image 20240819150141.png]]
 The safe lane will be the one with 2 arrows going away from you. Wicked Blaze will target the healers for stack damage. Doesn't hit hard.
+Wait for stack to go off, then move into your safe lane staying stacked.
+___
+### Wicked Special
+2 possibilities: 
+![[Pasted image 20240819171849.png]]
+![[Pasted image 20240819171924.png]]
+Single Sword = Sides are safe.
+2 Purple Orbs = Middle is safe.
+___
+### Mustard Bomb
+Party stacks mid. 2 players get tethers. Tanks grab tethers; required heavy mit.
+
+Once tanks have tethers, move to the exact positions shown below. Tanks need to note which 2 players do not have debuffs.
+![[Pasted image 20240819172130.png]]
+Tanks need to spread their debuff to one of the 2 players who was not targeted; MT takes Left-most, OT takes Right-most, then move back to their positions.
+___
+### Aetherial Conversion
+Tentacles will glow either Red or Blue, and either the Left or Right will light up first. These will be saved and used when the boss casts "Tail Thrust."
+
+Red = Giant AoE to that side of the arena.
+![[Pasted image 20240819172411.png]]
+
+Blue = Knockback from red dot.
+![[Pasted image 20240819172510.png]]
+___
+### Azure Thunder
+Heavy raidwide, arena changes to be circle.
+___
+### Twilight Sabbath
+Stack tightly middle. "Wicked Fire" will drop AoEs under each player. 4 rings will spawn clones that appear 2 at a time. Each cleaves half the arena. Don't dodge until the player AoEs appear.
+
+2nd set is accompanied by "Wicked Special."
+___
+### Midnight Sabbath
+Spread to these positions:
+![[Pasted image 20240819172733.png]]
+
+Note the following:
+Dodge TOWARD birds, dodge AWAY FROM gun.
+Bird = Donut AoE
+![[Pasted image 20240819172823.png]]
+Gun = Line AoE
+![[Pasted image 20240819172845.png]]
+
+8 rings appear at the same time. 4 clones (either All Cardinals or Intercardinals) will appear slightly quicker. Accompanied by Scattered/Concentrated Burst.
+Scattered = Spread > Pairs
+Concentrated = Pairs > Spread
+
+When the clones drop down, identify if it's a bird or a gun clone.
+Bird
+- Rotate CCW to dodge the Bird AoE.
+- Resolve Scattered/Concentrated Burst within AoE.
+- ![[Pasted image 20240819173446.png]]
+Gun
+-  Move to Cardinal/Intercardinal (Opposite of where Gun clones are).
+- Resolve Scattered/Concentrated Burst within safe spot.
+- ![[Pasted image 20240819173425.png]]
+It is possible to get Double Bird or Double Gun.
+
+This is immediately followed by another "Wicked Special" and "Wicked Thunder."
+___
+### Aetherial Conversion 2
+Same as the first. Type in chat, won't resolve for a while
+___
+### Flame Slash
+Dodge to sides, arrange (from North to South) T > M > H > R. Center of the arena will be destroyed.
+___
+### Raining Swords
+Towers, soaked in order mentioned in "Flame Slash." Spawns swords that will be used in next mechanic.
+___
+### Chain Lightning
+The boss will target 3 swords with lightning. You need to remember which order the swords were safe in. It will be different for each side; calling out in voice will only cause confusion.
+![[Pasted image 20240819174055.png]]
+Each side will be targeted 4 times. Once the safe order is known, dodge while hugging inside of arena.
+![[Pasted image 20240819174228.png]]
+
+Tail Thrust will resolve immediately.
+___
+### Mustard Bomb 2
+Same as the first.
+___
+### Aetherial Conversion 3
+Same as the first. Type in chat, won't be resolved for a while. Followed by "Azure Thunder" raidwide.
+___
+### Ion Cluster 2
+Arena changes again, get the same debuffs from first mechanic. Note debuff and timer.
+___
+### Sunrise Sabbath
+6 clones spawn, 4 Guns and 2 Birds. The birds tell you where some towers will appear.
+![[Pasted image 20240819174731.png]]
+The birds will be facing where the towers will be going. In the example above, they're looking directly across the arena. This may not be the case. The towers will be at a Cardinal.
+![[Pasted image 20240819174812.png]]
+Long debuffs take towers. 2 per tower. DPS look N and go CW, Supports look NW and go CCW.
+![[Pasted image 20240819174922.png]]
+
+Short debuff players need to be baited to face out. Bait a gun with the opposite color of your debuff. Tight positioning here, be close to gun and tight against wall:
+![[Pasted image 20240819175017.png]]
+
+Dodge "Wicked Special."
+
+The mechanic repeats. Long debuffs now bait guns, short debuff players soak towers.
+
+Final "Tail Thrust" resolves.
+
+Uptime AutoCad Sunrise:
+Need specific waymarkers. Stand on edge closest of waymark closest to tower.
+![[Pasted image 20240819175249.png]]
+___
+### Sword Quiver
+Soft enrage. Get with Partners (T/M North, H/R South).
+![[Pasted image 20240819175404.png]]
+
+These 3 lines never change; only the horizontal line changes.
+![[Pasted image 20240819175455.png]]
+ Safe spots can look like the following:
+ ![[Pasted image 20240819175514.png]]
+ ![[Pasted image 20240819175528.png]]
+ ![[Pasted image 20240819175547.png]]
+
+___
+### Wicked Thunder
+Enrage.
