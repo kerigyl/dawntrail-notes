@@ -1,6 +1,8 @@
 [[Savage]] [[Light-Heavyweight]]
 Used [Hector Guide,](https://www.youtube.com/watch?v=xEX0kAIfTKo) who used the [Shababin strats.](https://pastebin.com/s3Q08tnA)
-### Mechanic-Specific Positions
+### Pre-Pull/Mechanic-Specific Positions
+Need standard clock spots.
+
 Bewitching Flight
 > ![[Pasted image 20240819111831.png]]
 
@@ -37,4 +39,34 @@ Identify which floor lines are going off and dodge accordingly while dodging the
 One of 2 possible symbols will appear on the boss to determine where the baiters need to go:
 ![[Pasted image 20240819113402.png]]
 
-In Hectors example, Supports were hit first and the first Line AoEs to go off were on the edges. She will be targeting the nearest players, so Tanks and Ranged swap so the Ranged are closest to the boss: ![[Pasted image 20240819113546.png]]
+In Hector's example, Supports were hit first and the first Line AoEs to go off were on the edges. She will be targeting the nearest players, so Tanks and Ranged swap so the Ranged are closest to the boss: ![[Pasted image 20240819113546.png]]
+___
+### Widening/Narrowing Witch Hunt
+One of 2 possibilities:
+Widening Witch Hunt
+	Out > In > Out > In
+Narrowing Witch Hunt
+	In > Out > In > Out
+
+Ins are Donut AoEs, Outs are Point-Blank AoEs.
+
+Comes in combination with 4 sets of Near/Far baits that target 2 players each. They always alternate: Which one hits first is random.
+
+Supports take 1st baits, DPS take 2nd. Healer/Ranged will always take Far baits, Melee/Tanks will always take Near baits.
+
+Stand at clock positions. Adjust for 1st Widening/Narrowing; players taking first Near/Far baits move in/out as needed on their clock spots while dodging Widening Narrowing.
+
+If you get combinations that don't mix well (ex. Near Hunts, Far Baits), players baiting use waymarkers and rest of party adjust In/Out farther than waymarks to compensate.
+___
+### Wrath of Zeus 2
+Same as the first.
+___
+### Electrope Edge
+Spawns Electromines in each corner.
+
+Each player needs to stand on a cardinal.
+
+Boss casts "Witchgleam" and sends line AoEs to each corner. You need to count and see which corners are only hit once.
+
+Corners that are hit once will only explode their tiles. Those hit twice will explode their tile and all adjacent tiles.
+![[Pasted image 20240819140039.png]]
