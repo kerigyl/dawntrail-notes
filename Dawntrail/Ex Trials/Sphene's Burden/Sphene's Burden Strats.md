@@ -142,3 +142,36 @@ Raidwide
 ___
 ### Authority Eternal
 Enrage.
+___
+## PHASE 2
+### Radical Shift
+Zone shifts, platforms appear on both sides. Outlines of each platform appear on the main platform.
+
+Get into spread positions for Point Blank AOEs.
+![[Pasted image 20241130134332.png]]
+
+Look at the background and note which way it's spinning, CW or CCW. Apply same rotation to determine which platform is going to appear beneath you.
+
+Position onto the safe platforms and wait for floor to change. This repeats with different patterns.
+
+Stay on new platforms and resolve the same way while the new set appears. You can overlap for a moment, adjust once 2nd platform shift occurs to resolve AOEs.
+___
+### World Shatter
+Raidwide, stage returns to normal.
+___
+### Dimensional Distortion.
+Exaflares, no spice. Wait for 2 hits of first to appear.
+___
+### Tyranny's Grasp
+Front half of arena is cleaved with TB towers.
+
+8 raidwide headbutts followed by 8 shared line AOEs. Heal and mitigate heavily.
+___
+### Radical Shift 2
+Same as the first.
+___
+### World Shatter
+Raidwide
+___
+### Preservation
+Enrage.
