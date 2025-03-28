@@ -76,7 +76,7 @@ Debuff on every living player. Beam passes over party. Debuff causes Stack AoE w
 
 **"Braindead" Strat**
 ![[Pasted image 20240704104458.png]]
-Tanks take their stacks solo (kitchen sink, no invuln), everyone else lines up (from corner with line: M > M > H > H > R > R)
+Tanks take their stacks solo (kitchen sink, no invuln), everyone else lines up (from corner with line): M > M > H > H > R > R)
 
 ~~**CHEESE STRAT** (Dead)
 ![[Pasted image 20240703191201.png]]
