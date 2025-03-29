@@ -93,14 +93,13 @@ ___
 ### Thorned Catharsis 3
 Raidwide. Mitigate.
 ___
-### Bud of Valor
+
+### Escelon's Fall 2
+Boss will cast "Bud of Valor."
 Supports W, DPS E.
 
 3 random players (all from one role group) will get Donut shock AOEs from earlier.
 1 Support and 1 DPS each will get a stack marker.
-___
-### Escelon's Fall 2
-
 ![[Pasted image 20250328191912.png]]
 Use Fan Spreads.
 
