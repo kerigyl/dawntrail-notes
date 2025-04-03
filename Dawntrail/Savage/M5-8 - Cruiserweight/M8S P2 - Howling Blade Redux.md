@@ -1,1 +1,0 @@
-[[Savage]] [[Arcadion 2]]

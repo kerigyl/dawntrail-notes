@@ -1,3 +1,5 @@
+[[Extreme Trials]]
+[Hector](https://www.youtube.com/watch?v=AFaiOZK78tM) [Strats](https://www.youtube.com/watch?v=W7OhCtKQnxk)
 ### Pre-pull
 - Light Parties
 - Clock Spots
@@ -15,6 +17,7 @@ Other role gets large donut AOEs. Stand still throughout mechanic.
 
 Alexandrian Holy
 	Color pairs. Towers appear. Role group with donut AOEs takes tower. Point-blank AOE group stands somewhere that won't kill them.
+	![[Pasted image 20250329060900.png]]
 ___
 ### Specter of the Lost
 Tankbuster tether, spawns on 2 random players. Stay away from party.

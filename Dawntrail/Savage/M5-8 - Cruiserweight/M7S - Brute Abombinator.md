@@ -1,1 +1,1 @@
-[[Savage]] [[Arcadion 2]]
+[[Savage]] [[Cruiserweight]]
